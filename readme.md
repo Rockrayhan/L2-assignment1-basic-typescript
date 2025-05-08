@@ -78,7 +78,7 @@ In the above details example,
 
 
 
-## How does TypeScript help in improving code quality and project maintainability?
+## 2. How does TypeScript help in improving code quality and project maintainability?
 
 
 Typescript is oop (Object Oriented Programming) language that builds based on javaScript with some advanced extra features. it extends from javaScript with it's individual extra features. 
