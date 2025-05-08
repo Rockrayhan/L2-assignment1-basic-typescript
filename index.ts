@@ -174,7 +174,6 @@
 
 
 
-
   // 7. Create a function that returns "Weekday" or "Weekend" based on the input day.
 
 //   enum Day {
